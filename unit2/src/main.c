@@ -1,6 +1,6 @@
 #include "function.h"
 
-extern int nCompletionStatus = 0;
+extern int nCompletionStatus;
 int main(int argc, char * argv[]) {
 	float x = 1.0;
 	float y = 5.0;

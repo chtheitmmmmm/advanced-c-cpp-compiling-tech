@@ -1,0 +1,1 @@
+gcc function.o main.o -o main
